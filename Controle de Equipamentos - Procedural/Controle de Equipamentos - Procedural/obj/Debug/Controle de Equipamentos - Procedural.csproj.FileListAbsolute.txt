@@ -1,0 +1,7 @@
+C:\Users\eduar\source\repos\Controle de Equipamentos - Procedural\Controle de Equipamentos - Procedural\bin\Debug\Controle de Equipamentos - Procedural.exe.config
+C:\Users\eduar\source\repos\Controle de Equipamentos - Procedural\Controle de Equipamentos - Procedural\bin\Debug\Controle de Equipamentos - Procedural.exe
+C:\Users\eduar\source\repos\Controle de Equipamentos - Procedural\Controle de Equipamentos - Procedural\bin\Debug\Controle de Equipamentos - Procedural.pdb
+C:\Users\eduar\source\repos\Controle de Equipamentos - Procedural\Controle de Equipamentos - Procedural\obj\Debug\Controle de Equipamentos - Procedural.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Controle de Equipamentos - Procedural\Controle de Equipamentos - Procedural\obj\Debug\Controle de Equipamentos - Procedural.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Controle de Equipamentos - Procedural\Controle de Equipamentos - Procedural\obj\Debug\Controle de Equipamentos - Procedural.exe
+C:\Users\eduar\source\repos\Controle de Equipamentos - Procedural\Controle de Equipamentos - Procedural\obj\Debug\Controle de Equipamentos - Procedural.pdb
